@@ -1,29 +1,184 @@
-<h1 align="center">Hi 👋, I'm JIBAN JYOTI MOHANTY</h1>
-<h3 align="center">I'm passionate about building scalable web and mobile applications.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Jiban Jyoti Mohanty</h1>
+  <p>
+    <a href="https://linkedin.com/in/jibanjyotimohanty" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:jibanjyotimohanty315@gmail.com" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/jibanjyotimohanty" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
+  </p>
+  <p>
+    <i>Full-stack developer passionate about building scalable, high-performance applications.</i>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibanjyotimohanty&label=Profile%20views&color=0e75b6&style=flat" alt="jibanjyotimohanty" /> </p>
+<img src="https://komarev.com/ghpvc/?username=jibanjyotimohanty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" align="right">
 
-- 🔭 I’m currently working on **Android and Web Apps**
+---
 
-- 🌱 I’m currently learning **AI/ML**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+I'm a passionate full-stack developer with expertise in building robust web and mobile applications. Currently focused on creating scalable solutions and exploring the intersection of backend optimization and AI/ML technologies.
 
-- 🤝 I’m looking for help with **DevOps**
+- 🔭 **Currently Building:** Android and Web Applications
+- 🌱 **Learning:** Artificial Intelligence & Machine Learning
+- 👯 **Open to:** Backend & DevOps collaborations
+- 💡 **Core Expertise:** Distributed Systems, Microservices Architecture, Scalable Design, System Design, Cloud Computing, Performance Optimization
+- 📧 **Contact:** jibanjyotimohanty315@gmail.com
 
-- 💬 Ask me about **Java**
+---
 
-- 📫 How to reach me **jibanjyotimohanty315@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Backend & Programming**
+<br>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Frontend Technologies**
+<br>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
+<a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibanjyotimohanty&show_icons=true&locale=en&layout=compact" alt="jibanjyotimohanty" /></p>
+**Mobile Development**
+<br>
+<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></a>
+<a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="50"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibanjyotimohanty&show_icons=true&locale=en" alt="jibanjyotimohanty" /></p>
+**Databases & Data**
+<br>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibanjyotimohanty&" alt="jibanjyotimohanty" /></p>
+**DevOps & Tools**
+<br>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a>
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+
+**🤖 AI & Code Assistance**
+<br>
+<a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white" alt="GitHub Copilot" height="50"/></a>
+<a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/Claude-9333EA?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="50"/></a>
+<a href="https://cursor.sh" target="_blank"><img src="https://img.shields.io/badge/Cursor-009966?style=flat&logo=cursor&logoColor=white" alt="Cursor" height="50"/></a>
+<a href="https://openai.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="50"/></a>
+<a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini" height="50"/></a>
+
+---
+
+## 🎯 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Android App** | Feature-rich mobile application | Java, Android SDK |
+| **Web Platform** | Scalable web application | Spring Boot, React |
+| **Backend API** | RESTful microservices | Java, PostgreSQL, Docker |
+
+
+## 🏆 Achievements & Milestones
+
+- 🌟 Active Open Source Contributor
+- 💻 Full-stack Development Expert
+- 🚀 Cloud & DevOps Enthusiast
+- 📚 Continuous Learner
+- 🎓 Java & Spring Boot Specialist
+
+---
+
+## 📊 Skills Proficiency
+
+| Backend | Frontend | Mobile | Database | DevOps |
+|---------|----------|--------|----------|--------|
+| ⭐⭐⭐⭐⭐ Java | ⭐⭐⭐⭐ React | ⭐⭐⭐⭐ Android | ⭐⭐⭐⭐⭐ PostgreSQL | ⭐⭐⭐⭐ Docker |
+| ⭐⭐⭐⭐⭐ Spring | ⭐⭐⭐⭐ TypeScript | ⭐⭐⭐⭐ React Native | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐ Git |
+| ⭐⭐⭐⭐ Python | ⭐⭐⭐⭐ HTML/CSS | | ⭐⭐⭐⭐ MongoDB | ⭐⭐⭐⭐ Jenkins |
+
+---
+
+## 📝 Latest Activities
+
+- 🔍 Working on scalable microservices architecture
+- 💬 Writing technical blog posts
+- 🤝 Open to collaboration & mentoring
+- 📚 Exploring Advanced AI/ML concepts
+
+---
+
+## 🎁 Support My Work
+
+If you find my projects useful, consider supporting me:
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/jibanjyoti" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://github.com/sponsors/jibanjyotimohanty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
+  </a>
+</div>
+
+---
+## 💼 Let's Connect & Collaborate
+
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
+
+<div align="center">
+  <a href="mailto:jibanjyotimohanty315@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/jibanjyotimohanty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/jibanjyotimohanty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/jibanjyoti" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+---
+
+## 📞 Quick Connect
+
+<div align="center">
+
+**📧 Email:** jibanjyotimohanty315@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/jibanjyotimohanty](https://linkedin.com/in/jibanjyotimohanty)  
+**🐙 GitHub:** [github.com/jibanjyotimohanty](https://github.com/jibanjyotimohanty)
+
+</div>
+
+---
+
+<div align="center">
+  
+### Let's build something amazing together! 🚀
+
+<img src="https://komarev.com/ghpvc/?username=jibanjyotimohanty&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors">
+
+</div>
+
+</div>
