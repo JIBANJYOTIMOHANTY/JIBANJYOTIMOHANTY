@@ -129,18 +129,32 @@ I'm a passionate full-stack developer with expertise in building robust web and 
 
 ---
 
-## 🎁 Support My Work
+## 💼 Experience & Certifications
 
-If you find my projects useful, consider supporting me:
+| Category | Details |
+|----------|---------|
+| **Backend Development** | Microservices, REST APIs, System Architecture |
+| **Cloud Platforms** | AWS, Google Cloud, Azure |
+| **Methodologies** | Agile, DevOps, CI/CD, TDD |
+| **Architecture** | Domain-Driven Design, Event-Driven, SOLID Principles |
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/jibanjyoti" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://github.com/sponsors/jibanjyotimohanty" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
-  </a>
-</div>
+---
+
+## 🔗 Open Source & Contributions
+
+- 🌟 Active contributor to tech communities
+- 📦 Published reusable libraries and packages
+- 🤝 Mentoring junior developers
+- 💡 Contributing to open-source projects
+
+---
+
+## 📚 Resources & Highlights
+
+- 📖 [My GitHub Repositories](https://github.com/jibanjyotimohanty?tab=repositories)
+- 🎯 Available for technical discussions and code reviews
+- 💼 Open to freelance and full-time opportunities
+- 🚀 Passionate about building impactful solutions
 
 ---
 ## 💼 Let's Connect & Collaborate
@@ -157,9 +171,11 @@ I'm always interested in collaborating on exciting projects and connecting with 
   <a href="https://github.com/jibanjyotimohanty" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <!-- Twitter Hidden
   <a href="https://twitter.com/jibanjyoti" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  -->
 </div>
 
 ---
