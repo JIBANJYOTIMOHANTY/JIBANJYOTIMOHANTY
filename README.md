@@ -103,17 +103,20 @@ I'm a passionate full-stack developer with expertise in building robust web and 
 - 💻 Full-stack Development Expert
 - 🚀 Cloud & DevOps Enthusiast
 - 📚 Continuous Learner
-- 🎓 Java & Spring Boot Specialist
+- 🎓 System Architecture & Distributed Systems Specialist
 
 ---
 
 ## 📊 Skills Proficiency
 
-| Backend | Frontend | Mobile | Database | DevOps |
-|---------|----------|--------|----------|--------|
-| ⭐⭐⭐⭐⭐ Java | ⭐⭐⭐⭐ React | ⭐⭐⭐⭐ Android | ⭐⭐⭐⭐⭐ PostgreSQL | ⭐⭐⭐⭐ Docker |
-| ⭐⭐⭐⭐⭐ Spring | ⭐⭐⭐⭐ TypeScript | ⭐⭐⭐⭐ React Native | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐ Git |
-| ⭐⭐⭐⭐ Python | ⭐⭐⭐⭐ HTML/CSS | | ⭐⭐⭐⭐ MongoDB | ⭐⭐⭐⭐ Jenkins |
+| Backend | Frontend | Mobile | Database | DevOps | AI/Tools |
+|---------|----------|--------|----------|--------|---------|
+| ⭐⭐⭐⭐⭐ Java | ⭐⭐⭐⭐⭐ React | ⭐⭐⭐⭐⭐ Android | ⭐⭐⭐⭐⭐ PostgreSQL | ⭐⭐⭐⭐⭐ Docker | ⭐⭐⭐⭐ GitHub Copilot |
+| ⭐⭐⭐⭐⭐ Node.js | ⭐⭐⭐⭐⭐ Next.js | ⭐⭐⭐⭐⭐ Kotlin | ⭐⭐⭐⭐⭐ MySQL | ⭐⭐⭐⭐⭐ Git | ⭐⭐⭐⭐ Claude |
+| ⭐⭐⭐⭐⭐ Express | ⭐⭐⭐⭐ Angular | ⭐⭐⭐⭐ Jetpack Compose | ⭐⭐⭐⭐⭐ MongoDB | ⭐⭐⭐⭐ Jenkins | ⭐⭐⭐⭐ OpenAI |
+| ⭐⭐⭐⭐ Python | ⭐⭐⭐⭐ TypeScript | ⭐⭐⭐⭐ React Native | ⭐⭐⭐⭐ Redis | ⭐⭐⭐⭐ Kubernetes | ⭐⭐⭐⭐ Gemini |
+| ⭐⭐⭐⭐⭐ Microservices | ⭐⭐⭐⭐ HTML/CSS | | ⭐⭐⭐⭐ Elasticsearch | ⭐⭐⭐⭐ Nginx | |
+| ⭐⭐⭐⭐⭐ System Design | ⭐⭐⭐⭐ Figma | | | | |
 
 ---
 
