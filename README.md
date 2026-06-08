@@ -62,7 +62,7 @@ I'm a passionate full-stack developer with expertise in building robust web and 
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/></a>
 <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="50"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000000" alt="React Native" height="50"/></a>
 
 **Databases & Data**
 <br>
@@ -77,6 +77,8 @@ I'm a passionate full-stack developer with expertise in building robust web and 
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
 <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50"/></a>
 
 **🤖 AI & Code Assistance**
 <br>
