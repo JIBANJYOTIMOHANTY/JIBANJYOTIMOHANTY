@@ -165,10 +165,10 @@ I'm always interested in collaborating on exciting projects and connecting with 
   <a href="mailto:jibanjyotimohanty315@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/jibanjyotimohanty" target="_blank">
+  <a href="https://www.linkedin.com/in/jiban-jyoti-mohanty-35005021a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/jibanjyotimohanty" target="_blank">
+  <a href="https://github.com/JIBANJYOTIMOHANTY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <!-- Twitter Hidden
