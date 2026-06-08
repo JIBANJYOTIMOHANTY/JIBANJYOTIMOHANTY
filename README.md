@@ -94,9 +94,12 @@ I'm a passionate full-stack developer with expertise in building robust web and 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **Android App** | Feature-rich mobile application | Java, Android SDK |
-| **Web Platform** | Scalable web application | Spring Boot, React |
-| **Backend API** | RESTful microservices | Java, PostgreSQL, Docker |
+| **E-Commerce Mobile App** | Full-featured Android application with real-time notifications | Kotlin, Jetpack Compose, Firebase, Android SDK |
+| **Microservices Platform** | Scalable backend infrastructure with multiple services | Java, Spring Boot, PostgreSQL, Docker, AWS |
+| **Full-Stack Web Dashboard** | Real-time analytics dashboard with responsive design | Next.js, React, TypeScript, Node.js, MongoDB, Tailwind CSS |
+| **REST API Gateway** | High-performance API with authentication and rate limiting | Express.js, PostgreSQL, Redis, Docker, Jenkins, Nginx |
+| **AI-Powered Assistant** | Chatbot integration with Claude/OpenAI APIs | Python, FastAPI, TypeScript, GitHub Copilot |
+| **DevOps Pipeline** | Complete CI/CD infrastructure for cloud deployment | Docker, Jenkins, Git, AWS, Azure, Kubernetes |
 
 
 ## 🏆 Achievements & Milestones
